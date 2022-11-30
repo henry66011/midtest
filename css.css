@@ -1,0 +1,195 @@
+#first{
+    top: 0px;
+    left: 0px;
+    width: 768px;
+    height: 80px;
+    background: var(--unnamed-color-aa0601) 0% 0% no-repeat padding-box;
+    background: #AA0601 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#first1{
+    top: 25px;
+    left: 240px;
+    width: 80px;
+    height: 30px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 20px/30px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal bold 20px/30px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+ul{
+    background-color: rgb(230, 230, 230);
+    list-style: none; 
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+#title{
+    /* Layout Properties */
+    top: 947px;
+    left: 120px;
+    width: 100%;
+    height: 72px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal bold 48px/72px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-650300);
+    text-align: center;
+    font: normal normal bold 48px/72px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #650300;
+    text-transform: uppercase;
+    opacity: 1;
+}
+#card1{
+    /* Layout Properties */
+    top: 1051px;
+    left: 162px;
+    /* width: 84px; */
+    height: 84px;
+    /* UI Properties */
+    opacity: 1;
+    text-align: center;
+}
+#card2{
+    /* width: 336px;
+    height: 36px; */
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal bold 24px/36px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-650300);
+    text-align: center;
+    font: normal normal bold 24px/36px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #650300;
+    text-transform: uppercase;
+    opacity: 1;
+}
+#card3{
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: center;
+    font: normal normal normal 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+}
+#card2-1{
+    /* UI Properties */
+    text-align: center;
+    opacity: 1;
+}
+#card2-2{
+    /* UI Properties */
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-aa0601);
+    text-align: center;
+    font: italic normal 900 48px/72px Roboto;
+    letter-spacing: 0px;
+    color: #AA0601;
+    text-transform: uppercase;
+    opacity: 1;
+}
+#card3-t{
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 6px #00000029;
+    border: 1px solid #DEE2E6;
+    border-radius: 4px;
+    opacity: 1;
+    text-align: center;
+}
+#card3-1{
+    /* UI Properties */
+    border-radius: 4px 4px 0px 0px;
+    opacity: 1;
+    text-align: center;
+}
+#card3-2{
+    /* UI Properties */
+    margin-left: 50px;
+    padding: 5px;
+    font: var(--unnamed-font-style-normal) normal medium 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal bold 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+#card3-3{
+    /* UI Properties */
+    margin-left: 50px;
+    padding: 5px;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal bold 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+#card3-4{
+    margin-left: 50px;
+    /* UI Properties */
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) var(--unnamed-font-size-14)/var(--unnamed-line-spacing-21) var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    text-align: left;
+    font: normal normal normal 14px/21px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+#contact1{
+    /* UI Properties */
+    margin-right: 10%;
+    margin-left: 10%;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal normal 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+}
+#contact2{
+    /* UI Properties */
+    margin-right: 10%;
+    margin-left: 10%;
+    font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-normal) 16px/24px var(--unnamed-font-family-source-han-sans-tw);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-000000);
+    text-align: left;
+    font: normal normal normal 16px/24px Source Han Sans TW;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+}
+#contact3{
+    /* UI Properties */
+    border: 1px solid var(--unnamed-color-000000);
+    border: 1px solid #000000;
+    opacity: 1;
+    margin-right: 10%;
+    margin-left: 10%;
+}
